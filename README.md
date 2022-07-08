@@ -1,2 +1,2 @@
 # youtube
-Materials for my YouTube channel
+Materials for my YouTube Channel
