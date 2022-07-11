@@ -1,0 +1,3 @@
+- [Audacity](https://www.audacityteam.org/)
+- [OBS Studio](https://obsproject.com/)
+- [ShotCut])(https://shotcut.org/)
