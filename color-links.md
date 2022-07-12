@@ -1,2 +1,2 @@
 - [ColorHexa](https://www.colorhexa.com/)
-- [w2 Color Picker](https://www.w3schools.com/colors/colors_picker.asp_
+- [w2 Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
